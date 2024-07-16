@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.home-screen{
+    position: absolute;
+    height: 100%;
+    width: 100%;
+    background-color: black;
+
+}
+.topbar{
+    height: 100px;
+    width: 100%;
+    background-color: rgb(212, 212, 221);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.navbar-btn{
+    display: flex;
+    justify-content: space-between;color: blanchedalmond;
+
+}
